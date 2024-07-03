@@ -1,4 +1,4 @@
-FROM python:3.12.1
+FROM python:3.13.0b2
 WORKDIR /app
 
 # Gerekli bağımlılıkları kopyala ve yükle
